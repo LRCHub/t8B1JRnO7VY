@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sunrise",
+  "base_artist": "ATEEZ",
+  "createdAt": "2026-03-12T02:50:30.667803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunrise Tells The Story",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/01_Sunrise_Tells_The_Story_Midland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunrise, Sunburn, Sunset",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/02_Sunrise,_Sunburn,_Sunset_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunrise",
+      "artist": "Yeasayer",
+      "has_synced": false,
+      "path": "select/03_Sunrise_Yeasayer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sunrise Angel",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/04_Sunrise_Angel_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunset Sunrise",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/05_Sunset_Sunrise_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunrise Comes Too Soon",
+      "artist": "Late Night Alumni",
+      "has_synced": true,
+      "path": "select/06_Sunrise_Comes_Too_Soon_Late_Night_Alumni.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunrise Comes",
+      "artist": "Late Night Alumni",
+      "has_synced": true,
+      "path": "select/07_Sunrise_Comes_Late_Night_Alumni.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Run to the Heart of the Sunrise",
+      "artist": "Monster Movie",
+      "has_synced": false,
+      "path": "select/08_Run_to_the_Heart_of_the_Sunrise_Monster_Movie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunrise",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/09_Sunrise_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dark Sunrise (feat. Tamara Blessa)",
+      "artist": "Om Unit feat. Tamara Blessa",
+      "has_synced": true,
+      "path": "select/10_Dark_Sunrise_(feat._Tamara_Blessa)_Om_Unit_feat._Tamara_Blessa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunrise Projector",
+      "artist": "Tycho",
+      "has_synced": false,
+      "path": "select/11_Sunrise_Projector_Tycho.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunrise Projector - Nautilis Remix",
+      "artist": "Tycho",
+      "has_synced": false,
+      "path": "select/12_Sunrise_Projector_-_Nautilis_Remix_Tycho.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blues At Sunrise",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/13_Blues_At_Sunrise_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blues At Sunrise",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/14_Blues_At_Sunrise_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blues Before Sunrise",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/15_Blues_Before_Sunrise_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What You Never Know (Won't Hurt You) (Sunrise Mix)",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/16_What_You_Never_Know_(Won't_Hurt_You)_(Sunrise_Mix)_Hayley_Westenra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunrise",
+      "artist": "ATEEZ",
+      "has_synced": false,
+      "path": "select/pl_01_Sunrise_ATEEZ.txt"
+    }
+  ]
+}
